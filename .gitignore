@@ -160,4 +160,8 @@ cython_debug/
 #.idea/
 
 .DS_store
-key.txt
+Code/path.py
+Code/test.py
+Code/load.py
+Code/crop.py
+Model/test.keras
