@@ -165,5 +165,4 @@ Code/test.py
 Code/load.py
 Code/crop.py
 Model/test.keras
-Data/indiancrop_dataset.csv
 Data/test.csv
