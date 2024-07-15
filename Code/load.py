@@ -3,7 +3,7 @@ from path import bpath
 import pandas as pd
 import matplotlib.pyplot as plt
 
-m = load_model(bpath+"Model/le-4_1000-1000-1000-1000_12000/model.keras")
+m = load_model(bpath+"")
 
 data = pd.read_csv(bpath + "Data/WildBlueberryPollinationSimulationData.csv")
 
